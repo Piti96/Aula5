@@ -184,7 +184,7 @@ icon i, .email i{
     display: none;
 
   }
-  .video:active{
+  .video.active{
     display: block;
 
   }
@@ -258,3 +258,4 @@ icon i, .email i{
         height: 160px;
    }
   }
+  
